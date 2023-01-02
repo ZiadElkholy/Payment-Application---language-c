@@ -1,0 +1,233 @@
+﻿  card.c
+D:\Engineering\Efwd\Payment Application\Payment Application\Card\card.c(21,47): warning C4047: '==': 'size_t' differs in levels of indirection from 'void *'
+D:\Engineering\Efwd\Payment Application\Payment Application\Card\card.c(20,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Engineering\Efwd\Payment Application\Payment Application\Card\card.c(18,10): warning C4101: 'name': unreferenced local variable
+D:\Engineering\Efwd\Payment Application\Payment Application\Card\card.c(19,11): warning C4101: 'i': unreferenced local variable
+D:\Engineering\Efwd\Payment Application\Payment Application\Card\card.c(61,50): warning C4047: '==': 'size_t' differs in levels of indirection from 'void *'
+D:\Engineering\Efwd\Payment Application\Payment Application\Card\card.c(57,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Engineering\Efwd\Payment Application\Payment Application\Card\card.c(129,82): warning C4047: '==': 'size_t' differs in levels of indirection from 'void *'
+D:\Engineering\Efwd\Payment Application\Payment Application\Card\card.c(140,33): warning C4553: '==': result of expression not used; did you intend '='?
+D:\Engineering\Efwd\Payment Application\Payment Application\Card\card.c(116,18): warning C4047: 'initializing': 'uint8_t' differs in levels of indirection from 'void *'
+  server.c
+D:\Engineering\Efwd\Payment Application\Payment Application\Server\server.c(177,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Engineering\Efwd\Payment Application\Payment Application\Server\server.c(182,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Engineering\Efwd\Payment Application\Payment Application\Server\server.c(187,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Engineering\Efwd\Payment Application\Payment Application\Server\server.c(192,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Engineering\Efwd\Payment Application\Payment Application\Server\server.c(252,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+D:\Engineering\Efwd\Payment Application\Payment Application\Server\server.c(255,61): warning C4047: 'function': 'const char *' differs in levels of indirection from 'uint8_t'
+D:\Engineering\Efwd\Payment Application\Payment Application\Server\server.c(255,58): warning C4024: 'strcmp': different types for formal and actual parameter 2
+D:\Engineering\Efwd\Payment Application\Payment Application\Server\server.c(265,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+D:\Engineering\Efwd\Payment Application\Payment Application\Server\server.c(268,60): warning C4047: 'function': 'const char *' differs in levels of indirection from 'uint8_t'
+D:\Engineering\Efwd\Payment Application\Payment Application\Server\server.c(268,57): warning C4024: 'strcmp': different types for formal and actual parameter 2
+D:\Engineering\Efwd\Payment Application\Payment Application\Server\server.c(242,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Engineering\Efwd\Payment Application\Payment Application\Server\server.c(246,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Engineering\Efwd\Payment Application\Payment Application\Server\server.c(232,16): warning C4101: 'cardData': unreferenced local variable
+D:\Engineering\Efwd\Payment Application\Payment Application\Server\server.c(236,18): warning C4101: 'ref': unreferenced local variable
+D:\Engineering\Efwd\Payment Application\Payment Application\Server\server.c(233,20): warning C4101: 'termData': unreferenced local variable
+  source.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(152,1): error C2061: syntax error: identifier 'WINAPI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(152,1): error C2059: syntax error: ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(154,21): error C2146: syntax error: missing ')' before identifier 'String'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(154,21): error C2061: syntax error: identifier 'String'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(154,21): error C2059: syntax error: ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(155,5): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(159,1): error C2061: syntax error: identifier 'uaw_lstrcmpW'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(159,1): error C2059: syntax error: ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(160,18): error C2146: syntax error: missing ')' before identifier 'String1'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(160,18): error C2061: syntax error: identifier 'String1'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(160,25): error C2059: syntax error: ','
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(162,5): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(166,1): error C2061: syntax error: identifier 'uaw_lstrcmpiW'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(166,1): error C2059: syntax error: ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(167,18): error C2146: syntax error: missing ')' before identifier 'String1'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(167,18): error C2061: syntax error: identifier 'String1'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(167,25): error C2059: syntax error: ','
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(169,5): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(173,1): error C2061: syntax error: identifier 'uaw_lstrlenW'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(173,1): error C2059: syntax error: ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(174,19): error C2146: syntax error: missing ')' before identifier 'String'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(174,19): error C2061: syntax error: identifier 'String'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(175,5): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(178,1): error C2143: syntax error: missing '{' before '__cdecl'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(180,18): error C2146: syntax error: missing ')' before identifier 'String'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(180,18): error C2061: syntax error: identifier 'String'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(180,18): error C2059: syntax error: ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(180,24): error C2059: syntax error: ','
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(182,5): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(185,1): error C2143: syntax error: missing '{' before '__cdecl'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(187,64): error C2146: syntax error: missing ')' before identifier 'Destination'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(187,64): error C2061: syntax error: identifier 'Destination'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(187,64): error C2059: syntax error: ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(187,75): error C2059: syntax error: ','
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(189,5): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(194,18): error C2146: syntax error: missing ')' before identifier 'String1'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(194,18): error C2061: syntax error: identifier 'String1'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(194,18): error C2059: syntax error: ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(194,25): error C2059: syntax error: ','
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(196,5): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(201,18): error C2146: syntax error: missing ')' before identifier 'String'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(201,18): error C2061: syntax error: identifier 'String'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(201,18): error C2059: syntax error: ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(202,5): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(205,1): error C2143: syntax error: missing '{' before '__cdecl'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(207,18): error C2146: syntax error: missing ')' before identifier 'String'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(207,18): error C2061: syntax error: identifier 'String'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(207,18): error C2059: syntax error: ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(207,24): error C2059: syntax error: ','
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(209,5): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(316,30): error C2061: syntax error: identifier 'UNALIGNED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(316,30): error C2059: syntax error: ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(328,1): error C2433: 'PUWSTR_C': 'inline' not permitted on data declarations
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(326,1): error C2040: 'PUWSTR_C': 'int' differs in levels of indirection from 'int *'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(328,1): error C2054: expected '(' to follow 'PUWSTR_C'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(329,18): error C2146: syntax error: missing ')' before identifier 'String'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(329,18): error C2085: 'ua_wcschr': not in formal parameter list
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(329,18): error C2146: syntax error: missing ',' before identifier 'String'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(330,18): error C2085: 'WCHAR': not in formal parameter list
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(330,18): error C2146: syntax error: missing ',' before identifier 'Character'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(331,5): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(332,1): error C2143: syntax error: missing ';' before '{'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(343,1): error C2433: 'PUWSTR_C': 'inline' not permitted on data declarations
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(341,1): error C2040: 'PUWSTR_C': 'int' differs in levels of indirection from 'int *'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(343,1): error C2054: expected '(' to follow 'PUWSTR_C'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(344,18): error C2146: syntax error: missing ')' before identifier 'String'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(344,18): error C2085: 'ua_wcsrchr': not in formal parameter list
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(344,18): error C2146: syntax error: missing ',' before identifier 'String'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(345,18): error C2085: 'WCHAR': not in formal parameter list
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(345,18): error C2146: syntax error: missing ',' before identifier 'Character'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(346,5): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(347,1): error C2143: syntax error: missing ';' before '{'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(419,1): error C2433: 'PUWSTR': 'inline' not permitted on data declarations
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(419,1): error C2054: expected '(' to follow 'PUWSTR'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(420,64): error C2146: syntax error: missing ')' before identifier 'Destination'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(420,64): error C2085: 'ua_wcscpy': not in formal parameter list
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(420,64): error C2146: syntax error: missing ',' before identifier 'Destination'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(421,18): error C2085: 'PCUWSTR': not in formal parameter list
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(421,18): error C2146: syntax error: missing ',' before identifier 'Source'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(422,5): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(423,1): error C2143: syntax error: missing ';' before '{'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(426,25): warning C4081: expected ')'; found 'string'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(427,25): warning C4081: expected ')'; found 'string'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(443,1): error C2433: 'PUWSTR': 'inline' not permitted on data declarations
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(443,1): error C2054: expected '(' to follow 'PUWSTR'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(444,42): error C2146: syntax error: missing ')' before identifier 'Destination'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(444,42): error C2085: 'ua_wcscpy_s': not in formal parameter list
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(444,42): error C2146: syntax error: missing ',' before identifier 'Destination'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(445,18): error C2082: redefinition of formal parameter 'size_t'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(445,18): error C2146: syntax error: missing ',' before identifier 'DestinationSize'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(446,18): error C2085: 'PCUWSTR': not in formal parameter list
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(446,18): error C2146: syntax error: missing ',' before identifier 'Source'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(447,5): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(448,1): error C2143: syntax error: missing ';' before '{'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(462,18): error C2146: syntax error: missing ')' before identifier 'String'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(462,18): error C2061: syntax error: identifier 'String'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(462,18): error C2059: syntax error: ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(463,5): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(464,1): error C2449: found '{' at file scope (missing function header?)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(470,1): error C2059: syntax error: '}'
+  terminal.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(152,1): error C2061: syntax error: identifier 'WINAPI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(152,1): error C2059: syntax error: ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(154,21): error C2146: syntax error: missing ')' before identifier 'String'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(154,21): error C2061: syntax error: identifier 'String'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(154,21): error C2059: syntax error: ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(155,5): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(159,1): error C2061: syntax error: identifier 'uaw_lstrcmpW'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(159,1): error C2059: syntax error: ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(160,18): error C2146: syntax error: missing ')' before identifier 'String1'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(160,18): error C2061: syntax error: identifier 'String1'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(160,25): error C2059: syntax error: ','
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(162,5): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(166,1): error C2061: syntax error: identifier 'uaw_lstrcmpiW'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(166,1): error C2059: syntax error: ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(167,18): error C2146: syntax error: missing ')' before identifier 'String1'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(167,18): error C2061: syntax error: identifier 'String1'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(167,25): error C2059: syntax error: ','
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(169,5): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(173,1): error C2061: syntax error: identifier 'uaw_lstrlenW'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(173,1): error C2059: syntax error: ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(174,19): error C2146: syntax error: missing ')' before identifier 'String'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(174,19): error C2061: syntax error: identifier 'String'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(175,5): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(178,1): error C2143: syntax error: missing '{' before '__cdecl'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(180,18): error C2146: syntax error: missing ')' before identifier 'String'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(180,18): error C2061: syntax error: identifier 'String'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(180,18): error C2059: syntax error: ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(180,24): error C2059: syntax error: ','
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(182,5): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(185,1): error C2143: syntax error: missing '{' before '__cdecl'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(187,64): error C2146: syntax error: missing ')' before identifier 'Destination'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(187,64): error C2061: syntax error: identifier 'Destination'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(187,64): error C2059: syntax error: ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(187,75): error C2059: syntax error: ','
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(189,5): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(194,18): error C2146: syntax error: missing ')' before identifier 'String1'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(194,18): error C2061: syntax error: identifier 'String1'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(194,18): error C2059: syntax error: ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(194,25): error C2059: syntax error: ','
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(196,5): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(201,18): error C2146: syntax error: missing ')' before identifier 'String'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(201,18): error C2061: syntax error: identifier 'String'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(201,18): error C2059: syntax error: ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(202,5): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(205,1): error C2143: syntax error: missing '{' before '__cdecl'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(207,18): error C2146: syntax error: missing ')' before identifier 'String'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(207,18): error C2061: syntax error: identifier 'String'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(207,18): error C2059: syntax error: ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(207,24): error C2059: syntax error: ','
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(209,5): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(316,30): error C2061: syntax error: identifier 'UNALIGNED'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(316,30): error C2059: syntax error: ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(328,1): error C2433: 'PUWSTR_C': 'inline' not permitted on data declarations
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(326,1): error C2040: 'PUWSTR_C': 'int' differs in levels of indirection from 'int *'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(328,1): error C2054: expected '(' to follow 'PUWSTR_C'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(329,18): error C2146: syntax error: missing ')' before identifier 'String'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(329,18): error C2085: 'ua_wcschr': not in formal parameter list
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(329,18): error C2146: syntax error: missing ',' before identifier 'String'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(330,18): error C2085: 'WCHAR': not in formal parameter list
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(330,18): error C2146: syntax error: missing ',' before identifier 'Character'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(331,5): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(332,1): error C2143: syntax error: missing ';' before '{'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(343,1): error C2433: 'PUWSTR_C': 'inline' not permitted on data declarations
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(341,1): error C2040: 'PUWSTR_C': 'int' differs in levels of indirection from 'int *'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(343,1): error C2054: expected '(' to follow 'PUWSTR_C'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(344,18): error C2146: syntax error: missing ')' before identifier 'String'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(344,18): error C2085: 'ua_wcsrchr': not in formal parameter list
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(344,18): error C2146: syntax error: missing ',' before identifier 'String'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(345,18): error C2085: 'WCHAR': not in formal parameter list
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(345,18): error C2146: syntax error: missing ',' before identifier 'Character'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(346,5): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(347,1): error C2143: syntax error: missing ';' before '{'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(419,1): error C2433: 'PUWSTR': 'inline' not permitted on data declarations
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(419,1): error C2054: expected '(' to follow 'PUWSTR'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(420,64): error C2146: syntax error: missing ')' before identifier 'Destination'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(420,64): error C2085: 'ua_wcscpy': not in formal parameter list
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(420,64): error C2146: syntax error: missing ',' before identifier 'Destination'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(421,18): error C2085: 'PCUWSTR': not in formal parameter list
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(421,18): error C2146: syntax error: missing ',' before identifier 'Source'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(422,5): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(423,1): error C2143: syntax error: missing ';' before '{'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(426,25): warning C4081: expected ')'; found 'string'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(427,25): warning C4081: expected ')'; found 'string'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(443,1): error C2433: 'PUWSTR': 'inline' not permitted on data declarations
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(443,1): error C2054: expected '(' to follow 'PUWSTR'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(444,42): error C2146: syntax error: missing ')' before identifier 'Destination'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(444,42): error C2085: 'ua_wcscpy_s': not in formal parameter list
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(444,42): error C2146: syntax error: missing ',' before identifier 'Destination'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(445,18): error C2082: redefinition of formal parameter 'size_t'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(445,18): error C2146: syntax error: missing ',' before identifier 'DestinationSize'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(446,18): error C2085: 'PCUWSTR': not in formal parameter list
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(446,18): error C2146: syntax error: missing ',' before identifier 'Source'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(447,5): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(448,1): error C2143: syntax error: missing ';' before '{'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(462,18): error C2146: syntax error: missing ')' before identifier 'String'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(462,18): error C2061: syntax error: identifier 'String'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(462,18): error C2059: syntax error: ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(463,5): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(464,1): error C2449: found '{' at file scope (missing function header?)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\stralign.h(470,1): error C2059: syntax error: '}'
+D:\Engineering\Efwd\Payment Application\Payment Application\Terminal\terminal.c(27,48): warning C4047: '==': 'size_t' differs in levels of indirection from 'void *'
+D:\Engineering\Efwd\Payment Application\Payment Application\Terminal\terminal.c(21,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Engineering\Efwd\Payment Application\Payment Application\Terminal\terminal.c(111,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Running Code Analysis for C/C++...
+  Generating Code...

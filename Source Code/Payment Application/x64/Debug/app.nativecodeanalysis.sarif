@@ -1,0 +1,75 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.34.31937.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///d:/engineering/efwd/payment application/payment application/application/app.c"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "0ce271081cf576ece37d317a035a6b487c0e0b9d34746f048bb01c79ef172183"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/engineering/efwd/payment application/payment application/application/app.h"
+          },
+          "hashes": {
+            "sha-256": "62b26442b6f1cdfb0d832f250fa71d52a7ccecf5fa9b6298c7a1705f0b06652c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/engineering/efwd/payment application/payment application/card/card.h"
+          },
+          "hashes": {
+            "sha-256": "d62406e257eb55651262263192dfc4c251348af158d96d3f34e04e808cb5bb5f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/engineering/efwd/payment application/payment application/std/std.h"
+          },
+          "hashes": {
+            "sha-256": "7f03a4facbee8c7659de0b82a08a536d45b9ecd5b215a525c5a6e85433ef01f8"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/engineering/efwd/payment application/payment application/terminal/terminal.h"
+          },
+          "hashes": {
+            "sha-256": "0ab2e7d748f0e416e51e34160d7ab7ee8bfb9a1060835ba9d3f23ba218139323"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/engineering/efwd/payment application/payment application/server/server.h"
+          },
+          "hashes": {
+            "sha-256": "103e1363729b06897e9005f4f16400fa51bb08363466075693407f518f9cf185"
+          }
+        }
+      ]
+    }
+  ]
+}
